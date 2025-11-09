@@ -1,0 +1,7 @@
+Estate Agent Report
+===================
+Agent Name: Silo
+Location: Durban
+Property Price: R89888,00
+Commission Percentage: 25,00%
+Commission Amount: R22472,00
